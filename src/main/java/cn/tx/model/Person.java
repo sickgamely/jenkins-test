@@ -1,7 +1,7 @@
 package cn.tx.model;
 
 public class Person {
-    private String name = "txjava/ly";
+    private String name = "txjava/teacher";
 
     public String getName() {
         return name;
